@@ -15,7 +15,7 @@ Welcome to my GitHub profile. Here I share my own and university projects.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.linux.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux" /></a></p>
 
-## 😃🍵 A bit about me:
+## 😃 A bit about me:
 - **Location**: Novosibirsk, Russia
 - **Education**: Second grade student of NSU 
 - **Field of study**:  Computer Science and Engineering
